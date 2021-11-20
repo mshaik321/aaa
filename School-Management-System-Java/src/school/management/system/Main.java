@@ -5,7 +5,7 @@ import java.util.List;
 
 
 public class Main {
-//
+// this is for testing
     public static void main(String[] args) {
         Teacher lizzy = new Teacher(1,"Lizzy",2500);
         Teacher Jack = new Teacher(2,"Jack",3700);

@@ -6,6 +6,8 @@ package school.management.system;
  * paid.
  *
  */
+
+
 public class Student {
 
     private int id;
